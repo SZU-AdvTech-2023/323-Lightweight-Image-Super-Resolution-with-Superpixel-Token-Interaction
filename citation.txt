@@ -1,0 +1,7 @@
+@inproceedings{REPO323,
+    author = "Zhang, Aiping and Ren, Wenqi and Liu, Yi and Cao, Xiaochun",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    pages = "12728-12737",
+    title = "{Lightweight Image Super-Resolution with Superpixel Token Interaction}",
+    year = "2023"
+}
